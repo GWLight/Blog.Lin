@@ -3,14 +3,13 @@
 
 
     
-    
   <url>
-    <loc>https://lightlin.work//blog/2018/05/hello-world-%E5%89%AF%E6%9C%AC-2.html</loc>
-    <lastmod>2018-06-01T13:12:25.213Z</lastmod>
+    <loc>https://lightlin.work//blog/2018/06/Hexo-Next-Live2d.html</loc>
+    <lastmod>2018-06-07T08:26:42.826Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2018-05-26T08:30:53.417Z</pubTime>
+        <title></title>
+        <pubTime>2018-06-07T08:20:44.077Z</pubTime>
         
          
            
@@ -20,19 +19,21 @@
 
     
   <url>
-    <loc>https://lightlin.work//blog/2018/05/hello-world.html</loc>
-    <lastmod>2018-05-27T08:21:59.128Z</lastmod>
+    <loc>https://lightlin.work//blog/2018/05/Hexo-Next-Blog.html</loc>
+    <lastmod>2018-06-04T18:00:59.950Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
+        <title>迁移博客使用Hexo搭建流程纪录</title>
         <pubTime>2018-05-24T08:00:22.741Z</pubTime>
         
-        <tag>test</tag>
+        <tag>Hexo</tag>
+         
+        <tag>Next</tag>
          
          
            
              
-              <breadCrumb title="java" url="https://lightlin.work/categories/java/"/>
+              <breadCrumb title="Hexo" url="https://lightlin.work/categories/Hexo/"/>
           
         </display>
     </data>
@@ -41,18 +42,4 @@
     
     
     
-  <url>
-    <loc>https://lightlin.work//blog/2018/05/hello-world-%E5%89%AF%E6%9C%AC.html</loc>
-    <lastmod>2018-05-24T08:00:22.742Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-05-26T08:30:53.049Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>

@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lightlin.work/blog/2018/06/Hexo-Next-Live2d.html</loc>
+    
+    <lastmod>2018-06-07T08:26:42.826Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://lightlin.work/blog/2018/05/Hexo-Next-Blog.html</loc>
+    
+    <lastmod>2018-06-04T18:00:59.950Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://lightlin.work/about/index.html</loc>
     
-    <lastmod>2018-06-02T02:26:40.718Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lightlin.work/blog/2018/05/hello-world-%E5%89%AF%E6%9C%AC-2.html</loc>
-    
-    <lastmod>2018-06-01T13:12:25.213Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lightlin.work/blog/2018/05/hello-world.html</loc>
-    
-    <lastmod>2018-05-27T08:21:59.128Z</lastmod>
+    <lastmod>2018-06-02T09:21:09.414Z</lastmod>
     
   </url>
   
@@ -33,13 +33,6 @@
     <loc>https://lightlin.work/tags/index.html</loc>
     
     <lastmod>2018-05-27T08:17:44.134Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://lightlin.work/blog/2018/05/hello-world-%E5%89%AF%E6%9C%AC.html</loc>
-    
-    <lastmod>2018-05-24T08:00:22.742Z</lastmod>
     
   </url>
   

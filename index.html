@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		
+    <link rel="stylesheet" href="css/fontawesome-all.min.css">
+	<script src="jquery-1.10.2.js"></script>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+		<i class="fas fa-comment-dots"></i>
+		
+		<iframe src="" frameborder="1" id="iframeContent" name="iframeContent" style="display: none;">
+			<pre>{"code": "01"}</pre> 
+		</iframe> 
+		<form action="http://www.tuling123.com/openapi/api" method="post" target="iframeContent"> 
+		<div class="waifu-input-div" align="center">
+			<input style="display: none;"  id="key" name="key" value="2ac756157fe547d6b96510e4be00c8c2"/>
+			<input style="display: none;"  id="userid" name="userid" value="123413"/>
+			<input name="talk" type="text" class="waifu-input-text" id="info" name="info" autocomplete="off" placeholder="要和我聊什么呀？" />
+			<button type="submit" class="waifu-btn"  >发送</button>
+		</div>
+	</form> 
+	<script> 
+
+//		$("iframe[name=iframeContent]").on("load", function() { 
+//		　　var responseText = $("iframe")[0].contentDocument.body.getElementsByTagName("pre")[0].innerHTML; 
+//		　　alert(responseText); 
+//		　　//以下就可以判断并处理返回值 
+//		}) 
+		
+		function initIframe(){  
+    $('#iframeContent').load(function(){ //添加iframe的onload事件  
+        $("body").unmask();  
+        var resText = $(this).contents().find("body").find('pre').text(),  
+            res = JSON.parse(resText);  //获取返回结果  
+        if(res){  
+            //根据返回结果, 执行的操作  
+            alert(res);
+        }  
+    });  
+}  
+
+</script>
+	</body>
+</html>
